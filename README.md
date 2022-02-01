@@ -1,2 +1,2 @@
 # Namy
-my second project
+[my second project](https://olekkssii.github.io/Namy/)
